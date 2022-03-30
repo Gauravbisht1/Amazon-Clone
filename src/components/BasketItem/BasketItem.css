@@ -1,0 +1,37 @@
+.BasketProduct {
+  display: flex;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.BasketProduct:hover {
+  box-sizing: border-box;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+  transform: scale(103%);
+  transition: linear 3s ease-in-out;
+}
+.BasketProduct_info {
+  padding-left: 20px;
+}
+
+.BasketProduct_info > button {
+  background: #f0c14b;
+  border: 1px solid;
+  margin-top: 10px;
+  border-color: #a88734 #9c7e31 #846a29;
+  color: #111;
+}
+
+.BasketProduct_image {
+  object-fit: contain;
+  width: 180px;
+  height: 180px;
+}
+
+.BasketProduct_rating {
+  display: flex;
+}
+
+.BasketProduct_title {
+  font-size: 17px;
+  font-weight: 800;
+}
