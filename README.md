@@ -1,3 +1,7 @@
+# AMAZON CLONE
+
+https://user-images.githubusercontent.com/87888901/160756053-b11706e2-11fd-4bc1-9452-06b33d95a422.mp4
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
